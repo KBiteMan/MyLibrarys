@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#3d19a0</color>
+    <color name="circle_background">#fff2f2f2</color>
+    <color name="line_background">#ffcccccc</color>
+    <color name="done_text_color_normal">#ffffff</color>
+    <color name="done_text_color_disabled">#ffcccccc</color>
+    <color name="blue">#b3e533</color>
+    <color name="darker_blue">#ff0099cc</color>
+    <color name="date_picker_text_normal">#87b2fe</color>
+    <color name="calendar_header">#491fba</color>
+    <color name="date_picker_view_animator">#2e127b</color>
+
+    <color name="ampm_text_color">#8c8c8c</color>
+    <color name="numbers_text_color">#8c8c8c</color>
+
+    <color name="transparent_black">#7F000000</color>
+
+    <color name="background">#424e72</color>
+    <color name="split_line">#335d6c8c</color>
+    <color name="text1">#ffffff</color>
+    <color name="text2">#8f9cb5</color>
+    <color name="font_title">#8f9cb5</color>
+    <color name="bg_button_left">#00d2ff</color>
+    <color name="bg_button_right">#333d60</color>
+
+    <color name="color1">#F0F0F0</color>
+    <color name="color2">#FFFFFF</color>
+    <color name="color3">#B0B0B0</color>
+    <color name="color4">#666666</color>
+    <color name="color5">#57C5E8</color>
+</resources>
